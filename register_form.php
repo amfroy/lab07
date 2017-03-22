@@ -132,4 +132,23 @@
 	</script>
 </form>
 </body>
+<font face="angsananew" size=5 color=#000080>Source Code</font>
+   <br>
+   <br>
+   <button type="button"><a href="https://github.com/amfroy/lab07/blob/master/register_form.php">
+		REGISTER FORM 
+	</a></button>
+
+    <button type="button"><a href="https://github.com/amfroy/lab07/blob/master/dopost.php">
+		DOPOST FORM
+	</a></button>
+
+    <button type="button"><a href="https://github.com/amfroy/lab07/blob/master/show_register.php">
+		INFORMATION TABLE 
+	</a></button>
+
+    <button type="button"><a href="https://github.com/amfroy/lab07/blob/master/2.png">
+		ER DIAGRAM 
+	</a></button>
+
 </html>
